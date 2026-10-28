@@ -5,19 +5,16 @@ Day 1: Introduction to Networking Hardware
 
 Task 1: Labelled Diagram of a Typical Home Wi-Fi Setup
 
-             INTERNET
-                 |
-             [ MODEM ]
-                 |
-             [ ROUTER ]
-              /      \
-     Ethernet Cable   Wi-Fi
-           |          /    \
-        [ SWITCH ] [LAPTOP] [SMARTPHONE]
-        /       \
-   [PC/Desktop] [ACCESS POINT]
-                     )))
-              Wireless Devices
+          
+              
+             
+                
+             
+              
+     
+  
+                  
+              
 
 Explanation:
 
