@@ -17,7 +17,9 @@ Important Parts:
 * Antennas: Help provide wireless connectivity.
 
 
-![Home Wi-Fi Router and Network Switch Diagram](./router-switch-diagram.png)
+
+![Labelled Home Wi-Fi Router and Network Switch Diagram](./5DAEBD5A-5224-46A0-973B-C977C9C20FC3.png)
+
 
 
 Diagram: Insert a labelled router diagram showing the WAN port, LAN ports, power port, antennas, and status LEDs.
