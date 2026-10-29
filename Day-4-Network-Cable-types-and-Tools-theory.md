@@ -7,3 +7,4 @@ Task 3: Steps to Attach an RJ45 Connector
 5. Insert all wires into the RJ45 connector.
 6. Use an RJ45 crimping tool to crimp the connector.
 7. Test the cable using a network cable tester.
+![RJ-45 Plug](IMG_7088.jpeg)
