@@ -6,6 +6,8 @@ A. Home Wi-Fi Router
 
 A home Wi-Fi router connects devices to the internet and allows devices to communicate with each other.
 
+![Home Wi-Fi Router Diagram](https://placehold.co/800x450/png?text=Router+Diagram+-+WAN%2C+LAN%2C+Power+Port%2C+LEDs)
+
 Important Parts:
 
 * WAN Port: Connects the router to the modem or internet connection.
@@ -17,6 +19,8 @@ Important Parts:
 Diagram: Insert a labelled router diagram showing the WAN port, LAN ports, power port, antennas, and status LEDs.
 
 B. Network Switch
+
+![Network Switch Diagram](https://placehold.co/800x450/png?text=Network+Switch+-+Ethernet+Ports%2C+Power%2C+LEDs)
 
 A network switch connects multiple wired devices within a local area network (LAN).
 
