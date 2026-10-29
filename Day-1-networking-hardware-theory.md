@@ -5,7 +5,9 @@ Day 1: Introduction to Networking Hardware
 
 Task 1: Labelled Diagram of a Typical Home Wi-Fi Setup
 
-      https://github.com/jiyaapatel2008/Understanding-and-maintenance-of-network-/blob/main/E640F525-481C-43EE-A5DF-AA98DE0A4BD6.png?raw=true
+
+![Labelled Diagram of Typical Home Wi-Fi Setup](./E640F525-481C-43EE-A5DF-AA98DE0A4BD6.png)
+
               
              
                 
