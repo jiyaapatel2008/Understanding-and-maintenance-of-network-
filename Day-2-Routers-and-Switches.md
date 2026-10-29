@@ -16,7 +16,9 @@ Important Parts:
 * Status LEDs: Indicate power, internet connectivity, Wi-Fi activity, and LAN connections.
 * Antennas: Help provide wireless connectivity.
 
-![Router and Network Switch Diagram](router-switch-diagram.png)
+
+![Home Wi-Fi Router and Network Switch Diagram](./router-switch-diagram.png)
+
 
 Diagram: Insert a labelled router diagram showing the WAN port, LAN ports, power port, antennas, and status LEDs.
 
