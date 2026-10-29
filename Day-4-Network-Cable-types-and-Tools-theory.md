@@ -29,3 +29,20 @@ Note: Both ends must use the T568B order for a straight-through cable.
 ![Step 2: Arrange Wires](IMG_7091.jpeg)
 
 ![Step 3: Crimp the RJ45 Connector](IMG_7092.jpeg)
+Task-4 network setup for a gaming cafe
+Task 4: Network Setup for a Gaming Cafe
+
+For a gaming cafe with 10 PCs, I would use Cat6 Ethernet cables to connect all PCs to a Gigabit Ethernet switch.
+
+Cable choice: Cat6 Ethernet cable.
+
+Tool choice: RJ45 crimper for attaching connectors and a network cable tester for checking the cables.
+
+Reasons:
+
+* Cat6 supports Gigabit Ethernet and can support 10 Gbps over shorter distances under suitable conditions.
+* Ethernet provides a stable, low-latency connection for online gaming.
+* It is affordable and easy to install for a small gaming cafe.
+* Each PC can be connected directly to a network switch.
+
+Conclusion: Cat6 Ethernet cables are a practical and cost-effective choice for connecting 10 gaming PCs. Fiber optic cable would be worth considering for longer backbone links or higher bandwidth requirements.
