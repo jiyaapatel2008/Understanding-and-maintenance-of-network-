@@ -14,7 +14,7 @@ Practical Steps:
 4. If the login page opens, take a screenshot as evidence.
 
 Evidence: Add a screenshot of the router login page if accessible.
-
+![Jio Router Admin Login Page](./IMG_0361.jpeg)
 Task 2: IP Address, Subnet Mask, and Default Gateway
 
 I checked my MacBook’s network settings while connected to Wi-Fi.
