@@ -25,7 +25,7 @@ I checked my MacBook’s network settings while connected to Wi-Fi.
 * IP Configuration: DHCP (automatic)
 
 The IP address identifies my device on the local network. The subnet mask identifies the network portion of the address. The default gateway allows my device to communicate with other networks.
-
+![MacBook Network Settings](./IMG_0357.jpeg)
 Task 3: DHCP and Static IP Address
 
 DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses to devices on a network. A static IP address is configured manually and remains fixed until changed.
