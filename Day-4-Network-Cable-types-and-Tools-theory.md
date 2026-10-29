@@ -11,3 +11,5 @@ Real-world examples:
 
 * Ethernet cables are used to connect computers to home Wi-Fi routers and switches.
 * Fiber optic cables are used by internet service providers and data centers for high-speed, long-distance connections.
+Task-2 showing the internal wiring of a straight through Ethernet cable
+![RJ-45 Plug](IMG_7088.jpeg)
