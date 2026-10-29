@@ -13,3 +13,4 @@ Real-world examples:
 * Fiber optic cables are used by internet service providers and data centers for high-speed, long-distance connections.
 Task-2 showing the internal wiring of a straight through Ethernet cable
 ![RJ-45 Plug](IMG_7088.jpeg)
+Task-3 how to use RJ45 crimper, write a step-by-step guide in your own words on how to attach an RJ45 connecter to CAT6 cable
