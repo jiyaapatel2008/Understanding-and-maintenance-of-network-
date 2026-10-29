@@ -14,6 +14,17 @@ Real-world examples:
 Task-2 showing the internal wiring of a straight through Ethernet cable
 ![RJ-45 Plug](IMG_7088.jpeg)
 Task-3 how to use RJ45 crimper, write a step-by-step guide in your own words on how to attach an RJ45 connecter to CAT6 cable
+Task 3: Steps to Attach an RJ45 Connector
+
+1. Strip approximately 2–3 cm of the outer cable jacket.
+2. Untwist and straighten the eight wires.
+3. Arrange the wires in T568B color order.
+4. Trim the wires evenly.
+5. Insert the wires fully into the RJ45 connector.
+6. Place the connector into the RJ45 crimper and squeeze firmly.
+7. Test the finished cable using a network cable tester.
+
+Note: Both ends must use the T568B order for a straight-through cable.
 ![Step 1: Strip the Cable](IMG_7090.jpeg)
 ![Step 2: Arrange Wires](IMG_7091.jpeg)
 
