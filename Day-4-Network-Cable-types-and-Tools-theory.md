@@ -15,3 +15,4 @@ Task-2 showing the internal wiring of a straight through Ethernet cable
 ![RJ-45 Plug](IMG_7088.jpeg)
 Task-3 how to use RJ45 crimper, write a step-by-step guide in your own words on how to attach an RJ45 connecter to CAT6 cable
 ![Step 1: Strip the Cable](IMG_7090.jpeg)
+![Step 2: Arrange Wires](IMG_7091.jpeg)
